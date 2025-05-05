@@ -184,6 +184,7 @@ import spike
 import spike.NMR as npkd
 import spike.File.BrukerNMR as bk
 import spike.plugins.bcorr as bcorr
+import spike.plugins.Peaks as Peaks
 from spike.Algo.BC import correctbaseline # Necessary for the baseline correction
 from spike.NPKData import as_cpx
 from spike.util.signal_tools import findnoiselevel
