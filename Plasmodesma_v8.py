@@ -77,7 +77,7 @@ POOL = None      # will be overwritten by main()
 import numpy as np
 import matplotlib.pyplot as plt
 
-VERSION = "8.0.3"
+VERSION = "8.0.4"
 
 print ("**********************************************************************************")
 print ("*                              PLASMODESMA program %5s                         *"%(VERSION,))
